@@ -1,0 +1,13 @@
+student-planner
+│
+├── index.html
+├── calendar.html
+├── tasks.html
+├── login.html
+├── about.html
+│
+├── css
+│   └── style.css
+│
+└── js
+    └── script.js
