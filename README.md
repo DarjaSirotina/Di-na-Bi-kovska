@@ -1,2 +1,2 @@
-# Di-na-Bi-kovska
+# Diana-Bi-kovska
 Skolēnu laika plānotājs
